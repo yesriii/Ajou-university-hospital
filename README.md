@@ -1,5 +1,5 @@
 <html>
-<audio autoplay>
+<audio autoplay loop>
   <source src="http://docs.google.com/uc?export=open&id=14tZJ8p-yk6RnNPJFT7WsZxIH1-x_dtQy" type="audio/mp3">
 </audio>
 
